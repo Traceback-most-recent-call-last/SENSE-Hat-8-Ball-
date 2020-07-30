@@ -1,5 +1,7 @@
 # SENSE-Hat-8-Ball-
 
+I found this project off of [this Raspberry Pi Project](https://projects.raspberrypi.org/en/projects/magic-8-ball), and decided to make it my own! Anyway, here's how you set it up.
+
 ## Hardware Required:
 1. Raspberry Pi (Can be any type, but Raspberry Pi 4 works best, due to its ram.)
 2. SENSE Hat (Or Sense Hat emulator)
